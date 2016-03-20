@@ -1,0 +1,5 @@
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 5 64 Bit array\bin\Release\Problem 5 64 Bit array.exe
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 5 64 Bit array\bin\Release\Problem 5 64 Bit array.pdb
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 5 64 Bit array\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 5 64 Bit array\obj\x86\Release\Problem 5 64 Bit array.exe
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 5 64 Bit array\obj\x86\Release\Problem 5 64 Bit array.pdb

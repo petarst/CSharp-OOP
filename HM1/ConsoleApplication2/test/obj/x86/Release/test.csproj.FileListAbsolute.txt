@@ -1,0 +1,5 @@
+D:\Programmer\CSHARP_OOP\HM1\ConsoleApplication2\test\bin\Release\test.exe
+D:\Programmer\CSHARP_OOP\HM1\ConsoleApplication2\test\bin\Release\test.pdb
+D:\Programmer\CSHARP_OOP\HM1\ConsoleApplication2\test\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programmer\CSHARP_OOP\HM1\ConsoleApplication2\test\obj\x86\Release\test.exe
+D:\Programmer\CSHARP_OOP\HM1\ConsoleApplication2\test\obj\x86\Release\test.pdb

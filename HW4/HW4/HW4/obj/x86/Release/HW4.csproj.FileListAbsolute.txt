@@ -1,0 +1,5 @@
+D:\Programmer\CSHARP_OOP\HW3\HW4\HW4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programmer\CSHARP_OOP\HW3\HW4\HW4\bin\Release\HW4.exe
+D:\Programmer\CSHARP_OOP\HW3\HW4\HW4\bin\Release\HW4.pdb
+D:\Programmer\CSHARP_OOP\HW3\HW4\HW4\obj\x86\Release\HW4.exe
+D:\Programmer\CSHARP_OOP\HW3\HW4\HW4\obj\x86\Release\HW4.pdb

@@ -1,0 +1,5 @@
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 4. Person class\bin\Release\Problem_4.Person_class.exe
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 4. Person class\bin\Release\Problem_4.Person_class.pdb
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 4. Person class\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 4. Person class\obj\x86\Release\Problem_4.Person_class.exe
+D:\Programmer\CSHARP_OOP\HW6\HW6\Problem 4. Person class\obj\x86\Release\Problem_4.Person_class.pdb

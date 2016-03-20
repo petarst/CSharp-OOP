@@ -1,0 +1,5 @@
+D:\Programmer\CSHARP_OOP\HW5\HW5\HW5_2\bin\Release\HW5_2.exe
+D:\Programmer\CSHARP_OOP\HW5\HW5\HW5_2\bin\Release\HW5_2.pdb
+D:\Programmer\CSHARP_OOP\HW5\HW5\HW5_2\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programmer\CSHARP_OOP\HW5\HW5\HW5_2\obj\x86\Release\HW5_2.exe
+D:\Programmer\CSHARP_OOP\HW5\HW5\HW5_2\obj\x86\Release\HW5_2.pdb

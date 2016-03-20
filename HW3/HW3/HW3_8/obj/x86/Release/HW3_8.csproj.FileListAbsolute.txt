@@ -1,0 +1,5 @@
+D:\Programmer\CSHARP_OOP\HW3\HW3\HW3_8\bin\Release\HW3_8.exe
+D:\Programmer\CSHARP_OOP\HW3\HW3\HW3_8\bin\Release\HW3_8.pdb
+D:\Programmer\CSHARP_OOP\HW3\HW3\HW3_8\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programmer\CSHARP_OOP\HW3\HW3\HW3_8\obj\x86\Release\HW3_8.exe
+D:\Programmer\CSHARP_OOP\HW3\HW3\HW3_8\obj\x86\Release\HW3_8.pdb

@@ -1,0 +1,5 @@
+D:\Programmer\CSHARP_OOP\HM1\HW1Version2\HW1Version2\bin\Debug\HW1Version2.exe
+D:\Programmer\CSHARP_OOP\HM1\HW1Version2\HW1Version2\bin\Debug\HW1Version2.pdb
+D:\Programmer\CSHARP_OOP\HM1\HW1Version2\HW1Version2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmer\CSHARP_OOP\HM1\HW1Version2\HW1Version2\obj\x86\Debug\HW1Version2.exe
+D:\Programmer\CSHARP_OOP\HM1\HW1Version2\HW1Version2\obj\x86\Debug\HW1Version2.pdb
