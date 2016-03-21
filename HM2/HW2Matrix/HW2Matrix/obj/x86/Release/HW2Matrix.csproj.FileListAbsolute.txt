@@ -1,5 +1,0 @@
-D:\Programmer\CSHARP_OOP\HM2\HW2Matrix\HW2Matrix\bin\Release\HW2Matrix.exe
-D:\Programmer\CSHARP_OOP\HM2\HW2Matrix\HW2Matrix\bin\Release\HW2Matrix.pdb
-D:\Programmer\CSHARP_OOP\HM2\HW2Matrix\HW2Matrix\obj\x86\Release\ResolveAssemblyReference.cache
-D:\Programmer\CSHARP_OOP\HM2\HW2Matrix\HW2Matrix\obj\x86\Release\HW2Matrix.exe
-D:\Programmer\CSHARP_OOP\HM2\HW2Matrix\HW2Matrix\obj\x86\Release\HW2Matrix.pdb
